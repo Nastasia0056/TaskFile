@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73d1d726-89e3-4045-9de7-0b3d82a16e23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qplOlJpWZAG2cFsrACPPuehcwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Evg\Desktop\scoold-master\TaskFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="TaskFile" />
+      <option name="PROGRAM_PARAMETERS" value="-c --si file1.txt file3.txt Files Lola.mp3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.defineSizeFilesParamHTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="defineSizeFilesParamHTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.defineSizeFilesParams_H_SI_C_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="defineSizeFilesParams_H_SI_C_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.defineSizeFilesParams_H_SI_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="defineSizeFilesParams_H_SI_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MainTest.defineSizeFilesParamHTest" />
+      <item itemvalue="JUnit.MainTest.defineSizeFilesParams_H_SI_Test" />
+      <item itemvalue="JUnit.MainTest.defineSizeFilesParams_H_SI_C_Test" />
+      <item itemvalue="JUnit.MainTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.defineSizeFilesParams_H_SI_C_Test" />
+        <item itemvalue="JUnit.MainTest.defineSizeFilesParamHTest" />
+        <item itemvalue="JUnit.MainTest.defineSizeFilesParams_H_SI_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d1d726-89e3-4045-9de7-0b3d82a16e23" name="Default Changelist" comment="" />
+      <created>1617784382463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617784382463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631439760959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="320" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631439760959" />
+    <state width="424" height="466" key="DebuggerActiveHint" timestamp="1631439455008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1631439455008" />
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1631440184777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184777" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1631440184777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184777" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1631440184777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184777" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1631440184777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184777" />
+    <state width="1877" height="135" key="GridCell.Tab.1.bottom" timestamp="1631440184772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184772" />
+    <state width="1877" height="135" key="GridCell.Tab.1.center" timestamp="1631440184772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184772" />
+    <state width="1877" height="135" key="GridCell.Tab.1.left" timestamp="1631440184772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184772" />
+    <state width="1877" height="135" key="GridCell.Tab.1.right" timestamp="1631440184772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631440184772" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

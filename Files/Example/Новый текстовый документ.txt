@@ -1,0 +1,14 @@
+Human Readable Size
+Finally – let’s see how to get a more user readable representation of the file size using Apache Commons IO – not just a size in bytes:
+
+@Test
+public void whenGetReadableFileSize_thenCorrect() {
+    File imageFile = new File("src/test/resources/image.jpg");
+    long size = getFileSize(imageFile);
+ 
+    assertEquals("12 KB", FileUtils.byteCountToDisplaySize(size));
+}
+6. Conclusion
+In this tutorial, we illustrated examples of using Java and Apache Commons IO to calculate the size of a file in the file system.
+
+The implementation of these examples can be found in the GitHub project – this is a Maven-based project, so it should be easy to import and run as it is.

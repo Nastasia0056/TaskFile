@@ -1,0 +1,25 @@
+In this quick tutorial, we'll learn how to get the size of a file in Java – using Java 7, the new Java 8 and Apache Common IO.
+
+Finally – we will also get a human readable representation of the file size.
+
+2. Standard Java IO
+Let’s start with a simple example of calculating the size of a file – using the File.length() method:
+
+private long getFileSize(File file) {
+    long length = file.length();
+    return length;
+}
+We can test our implementation relatively simply:
+
+@Test
+public void whenGetFileSize_thenCorrect() {
+    long expectedSize = 12607;
+ 
+    File imageFile = new File("src/test/resources/image.jpg");
+    long size = getFileSize(imageFile);
+ 
+    assertEquals(expectedSize, size);
+}
+Note that, by default, the file sizes is calculated in bytes.
+
+3. With Java NIO
